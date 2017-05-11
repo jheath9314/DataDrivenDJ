@@ -1,0 +1,1 @@
+This database backup is a full export of schema, structure, and data from MySQL 5.6.27
